@@ -1,0 +1,6 @@
+print("hola")
+
+x = 10 
+
+if x == 10:
+	hola
